@@ -1,29 +1,51 @@
-# Welcome to your Lovable project
+# AI Travel Orchestrator
 
-This project was built with [Lovable](https://lovable.dev).
+## Overview
+AI Travel Orchestrator is an AI-powered travel planning platform that helps users generate personalized travel itineraries, monitor flight prices, and manage trips through an intelligent dashboard.
 
-## Build with Lovable
+---
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+## Features
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- 🔐 Google Authentication
+- ✈️ AI Travel Itinerary Generation
+- 📈 Flight Price Alerts
+- 🏨 Hotel Recommendations
+- 🌤️ Weather Information
+- 🗺️ Personalized Trip Planner
+- 📂 Trip History
+- ☁️ Supabase Authentication & Database
 
-## Development
+---
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+## Tech Stack
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
+- Lovable AI
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Supabase
+
+---
+
+## Project Structure
+
+```
+src/
+public/
+supabase/
+package.json
 ```
 
-## Built with
+---
 
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
+## GitHub Repository
+
+https://github.com/keerthiprasanna818-del/AI-Travel-Orchestrator
+
+---
+
+## Author
+
+Keerthi Prasanna
