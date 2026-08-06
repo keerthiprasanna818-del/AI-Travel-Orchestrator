@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Delta Air Lines logo">
+  <defs><clipPath id="c"><circle cx="64" cy="64" r="64"/></clipPath></defs>
+  <g clip-path="url(#c)">
+    <rect width="128" height="128" fill="#003268"/>
+    <circle cx="104" cy="24" r="46" fill="#E01933" opacity="0.16"/>
+    <path d="M8 104 C40 96 88 84 120 60 L120 128 L8 128 Z" fill="#E01933" opacity="0.10"/>
+    <text x="64" y="60" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="40" font-weight="700" fill="#E01933">DL</text>
+    <text x="64" y="86" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#E01933" opacity="0.85">DELTA</text>
+  </g>
+</svg>
